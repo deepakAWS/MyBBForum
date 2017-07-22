@@ -98,7 +98,7 @@
     "OperatorEmail" : {
       "Description" : "Email address to notify if there are any operational issues",
       "Type" : "String",
-      "Default" : "hostmaster@stratotechnology.com"
+      "Default" : "deepaktyagee@gmail.com"
     }
   },
 
